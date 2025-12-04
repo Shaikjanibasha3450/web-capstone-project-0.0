@@ -4,7 +4,7 @@ A simple portfolio project built primarily with HTML.
 
 ## Project Overview
 
-This project is a basic web portfolio, demonstrating core HTML (askills. It can be used as a template or reference for similar web projects.
+This project is a basic web portfolio, demonstrating core HTML (as kills. It can be used as a template or reference for similar web projects.
 
 ## Features
 
