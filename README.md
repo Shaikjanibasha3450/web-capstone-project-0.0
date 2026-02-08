@@ -14,7 +14,7 @@ This project is a basic web portfolio, demonstrating core HTML (as kills. It can
 
 ## Getting Started
 
-Clone the repository and open `index.html` in your browser:
+Clone the repository and open `index.html` in your browser::
 
 ```sh
 git clone https://github.com/Shaikjanibasha3450/web-capstone-project-0.0.git
