@@ -25,7 +25,7 @@ cd web-capstone-project-0.0
 
 - `index.html`: Main website landing page
 - `assets/`: Directory for images and other static files
-- `public/`: Additional public files
+- `public/`: Additional public files.
 
 ## Live Website
 
